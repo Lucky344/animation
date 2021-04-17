@@ -1,3 +1,3 @@
 # animation
 
-Simple loading animations with CSS
+Simple loading animations with CSS.
